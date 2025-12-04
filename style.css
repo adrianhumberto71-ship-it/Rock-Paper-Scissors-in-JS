@@ -1,0 +1,29 @@
+body {
+    background-color : rgb(9, 9, 114) ;
+}
+
+#rock {
+    margin : 60px;
+    padding: 5px;
+    height: 80px;
+    width: 80px;
+
+}
+
+#paper {
+    margin : 60px;
+    padding: 5px;
+    
+    height: 80px;
+    width: 80px;
+
+}
+
+#scissor {
+    margin : 60px;
+    padding: 5px;
+    
+    height: 80px;
+    width: 80px;
+
+}
